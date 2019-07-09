@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1562691450394,
+  "timestamp": 1562692064499,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "/polyfills.d37cf3df0eb92a316744.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/scripts.6cf4da7113bcd1218d80.js",
-        "/styles.6b3dcd4893ab5e8c3ed6.css"
+        "/styles.2e5c82e28c18b8a15610.css"
       ],
       "patterns": []
     },
@@ -58,12 +58,12 @@
     "/assets/img/receipt.png": "954e44a814d2462f91b5b23b413f2f86ee7c3305",
     "/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "f97b1e787079da3860e21fddab399f248dbabfce",
+    "/index.html": "2f29615d9d3ac0beb1711bf235f8da4189647412",
     "/main.10a88ab3cd97da5eddf9.js": "e6bfc3d607bd4bce8ba4ea7e7c51af4954a81a3a",
     "/polyfills.d37cf3df0eb92a316744.js": "2cf5115e17552ef0ee5167674ea21962877f540c",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/scripts.6cf4da7113bcd1218d80.js": "2f2e9392c36d206a5e2da1b0b3c6522114707235",
-    "/styles.6b3dcd4893ab5e8c3ed6.css": "0c1d91af8eafb31a47b63813d06f5cb5ddf857bd"
+    "/styles.2e5c82e28c18b8a15610.css": "96cec6376431daa8d105f21c6490c6fbe4a44e90"
   },
   "navigationUrls": [
     {
